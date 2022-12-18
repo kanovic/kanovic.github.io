@@ -5,6 +5,6 @@ description = "It is very difficult to say something sensible about something se
 tags = ["Quotes"]
 +++
 
-## It is very difficult to say something sensible about something senseless
+## It is very difficult to say something sensible about something senseless.
 
 Does that make sense?
