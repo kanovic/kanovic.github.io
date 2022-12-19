@@ -58,7 +58,7 @@ I joined the working force as a home schooled script kid that would find his way
 By following a structured Software Development Life Cycle I now have the understanding to deliver software that works, is easy to understand, easy to maintain and easy to test.
 
 Some of the books that helped me understand:
-
+- [Head First Object-Oriented Analysis and Design](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://en.wikipedia.org/wiki/Robert_C._Martin)
