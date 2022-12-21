@@ -5,7 +5,7 @@ My [thoughts](/blog/thoughts/) are captured on my [Blog](/blog/) where I also sa
 
 ## About Me
 
-In my free time, I like to spend time in our beautiful nature, play golf and make myself a better person day by day. Yoga and mindfulness are of great value in my routine. Right now I try to make our garden (more) bird friendly . I really enjoy spotting them in their habitat.
+In my free time, I like to spend time in our beautiful nature, play golf and make myself a better person day by day. Yoga and mindfulness are of great value in my routine. Right now I try to make our garden (more) bird friendly. I really enjoy spotting them in their habitat.
 
 Starting from 2006 I have collected a lot of electronic music in the form of underground house, garage and uk garage vinyl.
 For impressions, you can find me on:
