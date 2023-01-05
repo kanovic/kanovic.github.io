@@ -10,9 +10,8 @@ In my free time, I like to spend time in our beautiful nature, play golf and mak
 Starting from 2006 I have collected a lot of electronic music in the form of underground house, garage and uk garage vinyl.
 For impressions, you can find me on:
 
-- [Discogs](https://www.discogs.com/user/koenzet)
 - [YouTube](https://www.youtube.com/released4pleasure)
-- [SoundCloud](https://soundcloud.com/koenzet)
+- [Discogs](https://www.discogs.com/user/koenzet)
 
 My motto through out the years:
 
