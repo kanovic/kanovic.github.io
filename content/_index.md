@@ -1,7 +1,7 @@
 ## Hi, my name is Koen
 
 Welcome to my personal domain for the web.
-My [thoughts](/blog/thoughts/) are captured on my [Blog](/blog/) where I also save [quotes](/blog/quotes/) from books that feel close to me. For web projects filter on the tech of interest on the blog page. My professional info is gathered in my [Resume](/resume/).
+My thoughts about technology are captured on my [Blog](/blog/) where I try and share knowledge that added value to my own use cases. For web projects filter on the tech of interest on the blog page. My professional info is gathered in my [Resume](/resume/).
 
 ## About Me
 
