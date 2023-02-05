@@ -21,7 +21,7 @@ My motto through out the years:
 
 ## Freelancing
 
-Outside of my work professionally, I pick up some projects within my social circle under the name **Koeneraad**.
+Outside of my work professionally, I pick up some hobby projects within my family and social circle under the name **Koeneraad**.
 I have been into computers and internet technology since my early childhood. Breaking and building stuff to see how things work was my way of learning. I now use that experience and knowledge I gathered over the years to support the ones that need it. Do you want to work together or have questions? You can reach me by **[email](mailto:info@zweerts.xyz)**.
 
 ### Projects
