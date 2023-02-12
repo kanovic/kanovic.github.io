@@ -10,7 +10,7 @@ _Work in progress..._
 ## Table Of Content
 
 - [As a Professional](#as-a-professional)
-- [Work Experience](#work-eperience)
+- [Work Experience](#work-experience)
 - [Skills](#skills)
 
 ---
