@@ -17,13 +17,10 @@ enableRobotsTXT = true
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+
 [permalinks]
   blog = "/:slug/"
   tags = "/blog/:slug"
-
-# Google Analytics
-googleAnalytics = 'G-X4KYS77VLB'
-
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
@@ -43,6 +40,9 @@ googleAnalytics = 'G-X4KYS77VLB'
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
   title = "ZWEERTS.xyz"
+  
+  # Google Analytics
+  googleAnalytics = 'G-X4KYS77VLB'
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
