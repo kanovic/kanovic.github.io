@@ -11,6 +11,9 @@ author = "Koen Zweerts"
 copyright = "Copyright © 2022, ZWEERTS.xyz"
 languageCode = "en-US"
 
+# Google Analytics
+googleAnalytics = "G-X4KYS77VLB"
+
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
@@ -41,8 +44,6 @@ ignoreErrors = ["error-disable-taxonomy"]
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
   title = "ZWEERTS.xyz"
   
-  # Google Analytics
-  googleAnalytics = "G-X4KYS77VLB"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
